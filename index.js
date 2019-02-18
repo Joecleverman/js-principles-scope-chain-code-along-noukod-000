@@ -32,7 +32,7 @@ const leastFavoriteCustomer = 'bob'
 
 function changeLeastFavoriteCustomer(){
 
-  leastFavoriteCustomer = 'mare';
+  leastFavoriteCustomer = 'Dany';
 
 }
 
